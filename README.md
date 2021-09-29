@@ -10,6 +10,10 @@ I'm a Full Stack Developer and currently a fourth year student at Jomo Kenyatta 
 
 ### Programming languages
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-f0db4f?style=for-the-badge&labelColor=black&logo=Javascript&logoColor=f0db4f)](#) [![NodeJs Badge](https://img.shields.io/badge/-nodejs-68a063?style=for-the-badge&labelColor=black&logo=node.js&logoColor=68a063)](#) [![PHP Badge](https://img.shields.io/badge/-PHP-878cb5?style=for-the-badge&labelColor=black&logo=php&logoColor=878cb5)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-f0db4f?style=for-the-badge&labelColor=black&logo=Javascript&logoColor=f0db4f)](#) [![PHP Badge](https://img.shields.io/badge/-PHP-878cb5?style=for-the-badge&labelColor=black&logo=php&logoColor=878cb5)](#) [![Python Badge](https://img.shields.io/badge/-python-4b8bbe?style=for-the-badge&labelColor=black&logo=python&logoColor=4b8bbe)](#)
 
 ### Libraries and frameworks
+
+[![Vuejs Badge](https://img.shields.io/badge/-Vue-41b883?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=41b883)](#) [![React Badge](https://img.shields.io/badge/-React-61bdfd?style=for-the-badge&labelColor=black&logo=React&logoColor=61dbfb)](#) [![NodeJs Badge](https://img.shields.io/badge/-nodejs-68a063?style=for-the-badge&labelColor=black&logo=node.js&logoColor=68a063)](#) [![Express Badge](https://img.shields.io/badge/-Express-303030?style=for-the-badge&labelColor=black&logo=express&logoColor=303030)](#)
+
+<!-- ### Tools and platforms -->
