@@ -1,4 +1,4 @@
-# Hi, I'm Charles <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi, I'm Charles <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=charlesmariga.charlesmariga&left_color=black&right_color=red)
 
 I'm a Full Stack Developer and currently a fourth year student at Jomo Kenyatta University of Agriculture and Technology, Kenya. I work part time remotely at Orchestra Technologies, New Zealand.
 
@@ -23,3 +23,7 @@ I'm a Full Stack Developer and currently a fourth year student at Jomo Kenyatta 
 ### Design
 
 [![Figma Badge](https://img.shields.io/badge/-Figma-e04a34?style=for-the-badge&labelColor=black&logo=figma&logoColor=e04a34)](#)
+
+## My stats
+
+[![Charles Mariga's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesmariga&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
