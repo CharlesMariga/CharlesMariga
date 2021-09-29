@@ -19,3 +19,7 @@ I'm a Full Stack Developer and currently a fourth year student at Jomo Kenyatta 
 ### Tools and platforms
 
 [![Visaul studio code Badge](https://img.shields.io/badge/-Vscode-0098FF?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=0098FF)](#) [![Git Badge](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&labelColor=black&logo=git&logoColor=F1502F)](#) [![Webpack Badge](https://img.shields.io/badge/-Webpack-8ed5fa?style=for-the-badge&labelColor=black&logo=webpack&logoColor=8ed5fa)](#) [![Wordpress Badge](https://img.shields.io/badge/-Wordpress-00749C?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=00749C)](#) [![NPM Badge](https://img.shields.io/badge/-npm-CC3534?style=for-the-badge&labelColor=black&logo=npm&logoColor=CC3534)](#) [![Netlify Badge](https://img.shields.io/badge/-netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=00C7B7)](#) [![Heroku Badge](https://img.shields.io/badge/-Heroku-6567a5?style=for-the-badge&labelColor=black&logo=heroku&logoColor=6567a5)](#) [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFA611)](#)
+
+### Design
+
+[![Figma Badge](https://img.shields.io/badge/-Figma-e04a34?style=for-the-badge&labelColor=black&logo=figma&logoColor=e04a34)](#)
