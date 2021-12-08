@@ -7,7 +7,7 @@ I'm a Full Stack Developer and currently a fourth year student at Jomo Kenyatta 
 
 :mailbox: Reach out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@CharlesMariga-black?style=flat&labelColor=black&logo=github&logoColor=white&link=https://twitter.com/_cmariga_)](https://github.com/charlesmariga) [![Twitter Badge](https://img.shields.io/badge/-@_cmariga_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_cmariga_)](https://twitter.com/_cmariga) [![Linkedin Badge](https://img.shields.io/badge/-@CharlesNjenga-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cmariga)](https://www.linkedin.com/in/charlesnjenga) [![Gmail Badge](https://img.shields.io/badge/-@CharlesMariga-db4437?style=flat&labelColor=db4437&logo=gmail&logoColor=white)](mailto:charlesmariga37@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@_cmariga-8a3ab9?style=flat&labelColor=8a3ab9&logo=instagram&logoColor=white&link=https://www.instagram.com/_cmariga/)](https://www.instagram.com/_cmariga/)
+[![Linkedin Badge](https://img.shields.io/badge/-@CharlesNjenga-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cmariga)](https://www.linkedin.com/in/charlesnjenga) [![Gmail Badge](https://img.shields.io/badge/-@CharlesMariga-db4437?style=flat&labelColor=db4437&logo=gmail&logoColor=white)](mailto:charlesmariga37@gmail.com)
 
 ## Skills
 
