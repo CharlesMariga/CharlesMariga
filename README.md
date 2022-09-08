@@ -1,72 +1,73 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charles Mariga
-
-## Full Stack Developer
+# Hi, I'm Charles <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi" /> ![visitors](https://visitor-badge.glitch.me/badge?page_id=charlesmariga.charlesmariga&left_color=black&right_color=red)
 
 I'm a software developer specializing in creating goal-driven products that provide exceptional experiences to their users.
 
 - 🌍  I'm based in Nairobi, KE.
 - 🖥️  See my portfolio at [charlesmariga.com](http://https://charlesmariga.com/#contact)
 - ✉️  You can contact me at [charlesmariga37@gmail.com](mailto:charlesmariga37@gmail.com)
-- 🚀  I'm currently working on [Natours API](http://github.com/CharlesMariga/Natours-nodejs)
-- 🧠  I'm learning typescript
+- 🚀  I'm currently working on [SOOP Hygiene App](https://app.soop.co.nz/login)
+- 🧠  I'm learning tailwindcss
 - 🤝  I'm open to collaborating on interesting projects
-- ⚡  I'm secretly a car enthusiast...but don't tell anyone
+- ⚡  I'm secretly a car enthusiast...but don't tell anyone😄
 
-<a href="https://www.twitter.com/_cmariga" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/_cmariga?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
-/></a><a href="https://www.github.com/CharlesMariga" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/CharlesMariga?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
+:mailbox: Reach out!
 
-### Skills
+[![Linkedin Badge](https://img.shields.io/badge/-@CharlesNjenga-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cmariga)](https://www.linkedin.com/in/charlesnjenga) [![Gmail Badge](https://img.shields.io/badge/-@CharlesMariga-db4437?style=flat&labelColor=db4437&logo=gmail&logoColor=white)](mailto:charlesmariga37@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@_cmariga_-1DA1F2?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white)](https://twitter.com/_cmariga)
+[![Instagram Badge](https://img.shields.io/badge/-@_cmariga_-F56040?style=flat&labelColor=F56040&logo=instagram&logoColor=white)](https://www.instagram.com/_cmariga/)
+[![Discord Badge](https://img.shields.io/badge/-@_cmariga_-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://discord.com/users/Charles#3911)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
-<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
-<a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-</p>
+## Skills
 
-### Socials
+### Programming languages
 
-<p align="left"> <a href="https://www.codepen.io/cmariga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Charles#3911" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/CharlesMariga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_cmariga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/charlesnjenga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_cmariga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#)
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)](#)
+[![SASS Badge](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&labelColor=black&logo=SASS&logoColor=CC6699)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](#)[![Tailwindcss Badge](https://img.shields.io/badge/-tailwindcss-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-f0db4f?style=for-the-badge&labelColor=black&logo=Javascript&logoColor=f0db4f)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=Typescript&logoColor=007acc)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=black&logo=Python&logoColor=FFD43B)](#)
 
-### Badges
+### Libraries and frameworks
 
-<b>My GitHub Stats</b>
+[![jQuery Badge](https://img.shields.io/badge/-jQuery-0868AC?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0868AC)](#)
+[![Vuejs Badge](https://img.shields.io/badge/-Vue-41b883?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=41b883)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=React&logoColor=61DBFB)](#)
+[![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=Redux&logoColor=764ABC)](#)
+[![Next Badge](https://img.shields.io/badge/-Next-000?style=for-the-badge&labelColor=black&logo=Next.js&logoColor=fff)](#)
+[![Gatsby Badge](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&labelColor=black&logo=Gatsby&logoColor=fff)](#)
+[![Vuetify Badge](https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&labelColor=black&logo=Vuetify&logoColor=1867C0)](#)
+[![Angular Badge](https://img.shields.io/badge/-Angular-dd1b16?style=for-the-badge&labelColor=black&logo=Angular&logoColor=dd1b16)](#)
+[![MUI Badge](https://img.shields.io/badge/-Material%20UI-007FFF?style=for-the-badge&labelColor=black&logo=MUI&logoColor=007FFF)](#)
+[![NodeJs Badge](https://img.shields.io/badge/-nodejs-68a063?style=for-the-badge&labelColor=black&logo=node.js&logoColor=68a063)](#)
+[![Express Badge](https://img.shields.io/badge/-Express-303030?style=for-the-badge&labelColor=black&logo=express&logoColor=fff)](#)
+[![GraphQl Badge](https://img.shields.io/badge/-GraohQl-E10098?style=for-the-badge&labelColor=black&logo=graphql&logoColor=E10098)](#)
+[![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&labelColor=black&logo=solidity&logoColor=fff)](#)
 
-<a href="http://www.github.com/CharlesMariga"><img src="https://github-readme-stats.vercel.app/api?username=CharlesMariga&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="CharlesMariga's GitHub stats" /></a>
+### Tools and platforms
 
-<a href="http://www.github.com/CharlesMariga"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CharlesMariga&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![Visaul studio code Badge](https://img.shields.io/badge/-Vscode-0098FF?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=0098FF)](#)
+[![Git Badge](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&labelColor=black&logo=git&logoColor=F1502F)](#)
+[![Webpack Badge](https://img.shields.io/badge/-Webpack-8ed5fa?style=for-the-badge&labelColor=black&logo=webpack&logoColor=8ed5fa)](#)
+[![NPM Badge](https://img.shields.io/badge/-npm-CC3534?style=for-the-badge&labelColor=black&logo=npm&logoColor=CC3534)](#)
+[![Netlify Badge](https://img.shields.io/badge/-netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=00C7B7)](#)
+[![Heroku Badge](https://img.shields.io/badge/-Heroku-6567a5?style=for-the-badge&labelColor=black&logo=heroku&logoColor=6567a5)](#)
+[![Firebase Badge](https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFA611)](#)
+[![Mongodb Badge](https://img.shields.io/badge/-MongDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
+[![POSTCSS Badge](https://img.shields.io/badge/-PostCSS-DD3A0A?style=for-the-badge&labelColor=black&logo=postcss&logoColor=DD3A0A)](#)
+[![Prettier Badge](https://img.shields.io/badge/-prettier-F7B93E?style=for-the-badge&labelColor=black&logo=prettier&logoColor=F7B93E)](#)
+[![Ethereum Badge](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&labelColor=black&logo=Ethereum&logoColor=fff)](#)
 
-<a href="https://github.com/CharlesMariga" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesMariga&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Design
+
+[![Figma Badge](https://img.shields.io/badge/-Figma-e04a34?style=for-the-badge&labelColor=black&logo=figma&logoColor=e04a34)](#)
+
+## My stats
+
+[![Charles Mariga's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesMariga&theme=dark&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&icon_color=fb8c00&ring=FB8C00&title_color=FB8C00&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Charles Mariga's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesMariga&langs_count=8&theme=dark&count_private=true&show_icons=true&layout=compact&hide_border=true&include_all_commits=true&&icon_color=fb8c00&title_color=FB8C00&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CharlesMariga&theme=dark&hide_border=true&ring=FB8C00&background=0d1117)](https://git.io/streak-stats)
 
 ### Support Me
 
