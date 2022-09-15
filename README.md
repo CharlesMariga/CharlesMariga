@@ -69,6 +69,6 @@ I'm a software developer specializing in creating goal-driven products that prov
 [![Charles Mariga's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesMariga&langs_count=8&theme=dark&count_private=true&show_icons=true&layout=compact&hide_border=true&include_all_commits=true&&icon_color=fb8c00&title_color=FB8C00&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CharlesMariga&theme=dark&hide_border=true&ring=FB8C00&background=0d1117)](https://git.io/streak-stats)
 
-### Support Me
+### 😂 Here is a random joke that'll make you laugh!
 
-<a href="https://www.buymeacoffee.com/cmariga"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=blue-green)
