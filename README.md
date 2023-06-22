@@ -5,8 +5,8 @@ I'm a software developer specializing in creating goal-driven products that prov
 - 🌍  I'm based in Nairobi, KE.
 - 🖥️  See my portfolio at [charlesmariga.com](http://https://charlesmariga.com/#contact)
 - ✉️  You can contact me at [charlesmariga37@gmail.com](mailto:charlesmariga37@gmail.com)
-- 🚀  I'm currently working on [SOOP Food Hygiene Management App](https://app.soop.co.nz/login)
-- 🧠  I'm learning tailwindcss
+- 🚀  I'm currently working on [Inisev](https://inisev.com/)
+- 🧠  I'm learning Advanced NuxtJs
 - 🤝  I'm open to collaborating on interesting projects
 - ⚡  I'm secretly a car enthusiast...but don't tell anyone😄
 
