@@ -6,7 +6,7 @@ I'm a software developer specializing in creating goal-driven products that prov
 - 🌍  I'm based in Nairobi, KE.
 - 🖥️  See my portfolio at [charlesmariga.com](https://charlesmariga.com)
 - ✉️  You can contact me at [charlesmariga37@gmail.com](mailto:charlesmariga37@gmail.com)
-- 🚀  I'm currently working on [Inisev](https://inisev.com/)
+- 🚀  I'm currently working on [nocode rebels](https://www.nocoderebels.dev/)
 - 🧠  I'm learning Advanced NuxtJs
 - 🤝  I'm open to collaborating on interesting projects
 - ⚡  I'm secretly a car enthusiast...but don't tell anyone😄
