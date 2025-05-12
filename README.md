@@ -4,8 +4,8 @@
 I'm a software developer specializing in creating goal-driven products that provide exceptional experiences to their users.
 
 - 🌍  I'm based in Nairobi, KE.
-- 🖥️  See my portfolio at [charlesmariga.com](https://charlesmariga.com)
-- ✉️  You can contact me at [charlesmariga37@gmail.com](mailto:charlesmariga37@gmail.com)
+- 🖥️  See my portfolio at [charlesnjenga.com](https://charlesmariga.com)
+- ✉️  You can contact me at [charlesmn37@gmail.com](mailto:charlesmn@gmail.com)
 - 🚀  I'm currently working on [nocode rebels](https://www.nocoderebels.dev/)
 - 🧠  I'm learning Advanced NuxtJs
 - 🤝  I'm open to collaborating on interesting projects
